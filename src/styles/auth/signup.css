@@ -1,0 +1,35 @@
+.line-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line {
+    width: 100%;
+    border-top: 2px solid #a9a9a9;
+    
+    margin: 0 10px;
+}
+
+.or-text {
+    position: absolute;
+    background-color: #fff;
+    
+    padding: 0 10px;
+}
+
+.icon-size {
+    height: 75px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.icon-gap {
+    width: 15px;
+    
+}
+
+.icon-bg-color {
+    background-color: #316FF6;
+}
